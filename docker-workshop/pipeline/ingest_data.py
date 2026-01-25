@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 import click
 import pandas as pd
 from sqlalchemy import create_engine
