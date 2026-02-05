@@ -246,7 +246,7 @@ override.tf.json
 .terraformrc
 terraform.rc
 /terraform/.terraform.lock.hcl
-/docker-workshop/pipeline/uv.lock
-/docker-workshop/pipeline/.python-version
-/kestra/kestra-secret-key.json
+uv.lock
+.python-version
+kestra-secret-key.json
 /kestra/.env_encoded
